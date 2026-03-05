@@ -35,15 +35,12 @@ Data Visualization
 
 ### Density Map Prediction
 
-![Density Map](images/density_map.png)
 
 ### Occupancy Trend Dashboard
 
-![Dashboard](images/dashboard.png)
 
 ### Crowd Monitoring Visualization
 
-![Trend Chart](images/trend_chart.png)
 
 ## Future Improvements
 
